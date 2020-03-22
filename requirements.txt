@@ -1,2 +1,2 @@
-integrationhelper
-sampleclient
+krakenex==2.1.0
+pykrakenapi==0.1.5
